@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaktimurf" alt="kaktimurf" /></a> </p>
 
-- 🔭 I’m currently working on [Traffic Education](https://github.com/kaktimurf/EducationApp)
+<!-- - 🔭 I’m currently working on [Traffic Education](https://github.com/kaktimurf/EducationApp)
 
-- 🌱 I’m currently learning **Microservice Architecture on Youtube,Udemy,Pluralsight and Other platforms**
+- 🌱 I’m currently learning **Microservice Architecture on Youtube,Udemy,Pluralsight and Other platforms** --!>
 
 - 👨‍💻 All of my projects are available at [https://avatars.githubusercontent.com/u/57290668?s=400&u=ef4fe5733b5e85e949bdb1867b32b958d5d909bc&v=4](https://avatars.githubusercontent.com/u/57290668?s=400&u=ef4fe5733b5e85e949bdb1867b32b958d5d909bc&v=4)
 
