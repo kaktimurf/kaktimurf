@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ferit Kaktimur</h1>
-<h3 align="center">I'am a software developer at Siren Bilişim. I am intersted in back-end development on .NET platform.</h3>
+<h3 align="center">I'am a software developer at Siren Bilişim. I am intersted in development on .NET and React</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaktimurf&label=Profile%20views&color=0e75b6&style=flat" alt="kaktimurf" /> </p>
 
