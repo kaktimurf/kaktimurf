@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaktimurf" alt="kaktimurf" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://avatars.githubusercontent.com/u/57290668?s=400&u=ef4fe5733b5e85e949bdb1867b32b958d5d909bc&v=4](https://avatars.githubusercontent.com/u/57290668?s=400&u=ef4fe5733b5e85e949bdb1867b32b958d5d909bc&v=4)
-
 - 💬 Ask me about **.Net, React, Sql, etc.**
 
 - 📫 How to reach me **kaktimurf@gmail.com**
